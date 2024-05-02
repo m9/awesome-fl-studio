@@ -7,7 +7,7 @@ Please read the following guidelines and try to follow them to the fullest exten
 ## Contribution guidelines
 
 Please ensure your contribution adheres to the following guidelines:
-* Please search for issues and pull requests before making a new one, as yours may be a duplicate or an [exclusion](https://github.com/indiscipline/awesome-reaper/issues?q=is%3Aissue+label%3Aexclusion+).
+* Please search for issues and pull requests before making a new one, as yours may be a duplicate or an [exclusion](https://github.com/m9/awesome-fl-studio/issues?q=is%3Aissue+label%3Aexclusion+).
 * Follow the established structure of the list or suggest a change in an issue. New categories or categorization improvements are welcome.
 * Points should follow the format: `[NAME](LINK) - DESCRIPTION`. You can add a complimentary link to the description.
 * Follow alphabetical order within each category.
