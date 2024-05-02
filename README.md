@@ -17,3 +17,34 @@ This project promotes freely available resources and content and can't be used a
 
 See the `CONTRIBUTING.md` file for details on [quality standards](CONTRIBUTING.md#quality-standards), [pull request guidelines](CONTRIBUTING.md#commit-and-pull-request-guidelines) and a [primer on Git-based collaboration](CONTRIBUTING.md#git-basics).
 
+# Contents
+
+- [Software and Tools](#software-and-tools)
+- [Scripts](#scripts)
+- [Learning](#learning)
+  - [Articles](#articles)
+  - [Books](#books)
+  - [Videos](#videos)
+- [Community](#community)
+  - [Forums](#forums)
+  - [Chats](#chats)
+- [Web Sites](#web-sites)
+
+## Software and Tools
+
+## Scripts
+- [🔗 Image-Line official "Scripting - Piano Roll" forum section](https://forum.image-line.com/viewforum.php?f=2008)
+
+## Learning
+### Articles
+### Books
+### Videos
+#### Youtube Channels
+- [Official FL Studio channel](https://www.youtube.com/@FL_STUDIO)
+- [In The Mix](https://www.youtube.com/channel/UCIcCXe3iWo6lq-iWKV40Oug)
+- [SeamlessR](https://www.youtube.com/user/SeamlessR)
+
+## Community
+### Forums
+- [Official FL Studio users forum](https://forum.image-line.com/viewforum.php?f=100)
+- [r/FL_Studio](https://www.reddit.com/r/FL_Studio/)
